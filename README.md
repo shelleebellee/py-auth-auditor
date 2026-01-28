@@ -1,3 +1,6 @@
+​⚠️ Ethical & Defensive Use Disclaimer
+​This tool is developed strictly for authorized defensive auditing and educational research within controlled lab environments. It is intended to help system administrators identify weak authentication patterns and test the efficacy of security controls like Fail2Ban. Unauthorized use against systems you do not own is illegal and unethical.
+
 # Automated SSH Authentication Auditor (Termux/ARM64)
 
 ## Project Overview
